@@ -18,7 +18,7 @@ import TopicDetail from "./pages/TopicDetail.jsx"
 import OAPage from "./pages/OAPage.jsx"
 import OAResultPage from "./pages/OAResultPage.jsx"
 
-export const ServUrl = "https://interview-platform-r1ak.onrender.com"
+export const serverUrl = "https://interview-platform-b40h.onrender.com"
 
 function App() {
 
