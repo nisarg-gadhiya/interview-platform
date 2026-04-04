@@ -19,7 +19,7 @@ dotenv.config()
 const app = express()
 
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://interview-platform-1-ni5z.onrender.com",
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization']
